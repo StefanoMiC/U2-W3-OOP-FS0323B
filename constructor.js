@@ -24,6 +24,7 @@ const person2 = {
 // per aiutarci a scrivere oggetti in serie fatti con la stessa struttura
 // entrano in gioco le funzioni costruttrici (constructor functions)
 
+// camelCase -> prima lettera minuscola e le altre maiuscole (gobba di cammello)
 // PascalCase -> tutte le lettere iniziali delle parole maiuscole (inclusa la prima)
 
 // dovrà essere una funzione classica e non arrow.
